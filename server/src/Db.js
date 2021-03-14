@@ -1,7 +1,6 @@
 class Db {
     constructor(config) {
 
-
         connect()
     }
 
@@ -25,5 +24,3 @@ class Db {
 
     }
 }
-
-module.exports = Db
